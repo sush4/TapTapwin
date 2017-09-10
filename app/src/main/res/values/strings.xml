@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Tap Tap win</string>
+    <string name="player1_won">Player blue won</string>
+    <string name="player2_won">Player Red won</string>
 </resources>
